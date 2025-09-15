@@ -1,6 +1,6 @@
 # EX-NO-6-Pseudo-Random-Number
 
-## NAME:SRIEAM.E
+## NAME:SRIRAM.E
 ## REG NO:212224220106
 
 
